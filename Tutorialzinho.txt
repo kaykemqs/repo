@@ -13,15 +13,15 @@ Prontinho!
 Template do Packages
 
 Package: (Nome original do Tweak)
-Version: (Versão do Tweak)
-Architecture: iphoneos-arm
-Maintainer: Kayke
-Filename: debs//(Nome do arquivo.deb)
-Size: (Tamanho do arquivo .deb em Bytes)
-MD5sum: (Ver no Computer Hash)
-SHA1: (Ver no Computer Hash)
-SHA256: (Ver no Computer Hash)
-Section: (Seção que se encontra na repo)
-Description: (Descrição para o Tweak)
-Author: Nome do Autor
-Name: (Nome do tweak quando aparece no Cydia)
+ Version: (Versão do Tweak)
+ Architecture: iphoneos-arm
+ Maintainer: Kayke
+ Filename: debs//(Nome do arquivo.deb)
+ Size: (Tamanho do arquivo .deb em Bytes)
+ MD5sum: (Ver no Computer Hash)
+ SHA1: (Ver no Computer Hash)
+ SHA256: (Ver no Computer Hash)
+ Section: (Seção que se encontra na repo)
+ Description: (Descrição para o Tweak)
+ Author: Nome do Autor
+ Name: (Nome do tweak quando aparece no Cydia)
