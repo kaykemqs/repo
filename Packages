@@ -10,6 +10,7 @@ Package: com.iosgods.kimk_5.5.0-5_iphoneos-arm
  Section: Tweaks
  Description: Kim Kardashian Hollywood Game Cheats. Enable at settings
  Author: tanuj <test@test.com>
+ Depiction: http://kaykemqs.github.io/repo/depic/index.html
  Name: Kim Kardashian: Hollywood Cheats
 
 Package: com.zahirsher.injustice2_1.3-5_iphoneos-arm.deb
@@ -24,4 +25,5 @@ Package: com.zahirsher.injustice2_1.3-5_iphoneos-arm.deb
  Section: Tweaks
  Description: Injustice 2 Game Cheats. Enable at settings.
  Author: ZahirSher <test@test.com>
+ Depiction: http://kaykemqs.github.io/repo/depic/index.html
  Name: (Nome do tweak quando aparece no Cydia)

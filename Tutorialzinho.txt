@@ -24,4 +24,5 @@ Package: (Nome original do Tweak)
  Section: (Seção que se encontra na repo)
  Description: (Descrição para o Tweak)
  Author: Nome do Autor
+ Depiction: http://kaykemqs.github.io/repo/depic/index.html
  Name: (Nome do tweak quando aparece no Cydia)
