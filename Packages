@@ -1,13 +1,27 @@
 Package: com.iosgods.kimk_5.5.0-5_iphoneos-arm
-Version: 5.5.0-5
-Architecture: iphoneos-arm
-Maintainer: Kayke <test@test.com>
-Filename: /Kim Kardashian Cheats
-Size: 4096
-MD5sum: fe034778cc21833a0feee23f0205c173
-SHA1: e2228dd38eea982d5a6835897f1b73901f306561
-SHA256: 98114e48d7436c3d9321053d8d4ee3bee5bafe77e1d3ec956b369870c459ebe1
-Section: Tweaks
-Description: Kim Kardashian Hollywood Game Cheats. Enable all at Settings
-Author: tanuj <test@test.com>
-Name: Kim Kardashian: Hollywood Cheats
+ Version: 5.5.0-5
+ Architecture: iphoneos-arm
+ Maintainer: Kayke <test@test.com>
+ Filename: /KimKardashianCheats.deb
+ Size: 4096
+ MD5sum: fe034778cc21833a0feee23f0205c173
+ SHA1: e2228dd38eea982d5a6835897f1b73901f306561
+ SHA256: 98114e48d7436c3d9321053d8d4ee3bee5bafe77e1d3ec956b369870c459ebe1
+ Section: Tweaks
+ Description: Kim Kardashian Hollywood Game Cheats. Enable at settings
+ Author: tanuj <test@test.com>
+ Name: Kim Kardashian: Hollywood Cheats
+
+Package: com.zahirsher.injustice2_1.3-5_iphoneos-arm.deb
+ Version: 1.3
+ Architecture: iphoneos-arm
+ Maintainer: Kayke <test@test>
+ Filename: /Injustice2Cheats.deb
+ Size: 2170880
+ MD5sum: 9e2905dcf5d080cf77b4d861cdb2cdfe
+ SHA1: 222b1dd76961847b9b162d55618cc5ec99761bb3
+ SHA256: e50d65a04b7d727f64fc039e7e1ac133c3983bf1af42501f400c1f635755ecb0
+ Section: Tweaks
+ Description: Injustice 2 Game Cheats. Enable at settings.
+ Author: ZahirSher <test@test.com>
+ Name: (Nome do tweak quando aparece no Cydia)
