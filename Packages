@@ -1,7 +1,7 @@
 Package: com.iosgods.kimk_5.5.0-5_iphoneos-arm.deb
 Version: 5.5.0-5
 Architecture: iphoneos-arm
-Maintainer: Kayke
+Maintainer: Kayke <test@test.com>
 Filename: Kim Kardashian Cheats.deb
 Size: 4096
 MD5sum: fe034778cc21833a0feee23f0205c173
@@ -9,5 +9,5 @@ SHA1: e2228dd38eea982d5a6835897f1b73901f306561
 SHA256: 98114e48d7436c3d9321053d8d4ee3bee5bafe77e1d3ec956b369870c459ebe1
 Section: Tweaks
 Description: Kim Kardashian Hollywood Game Cheats. Enable all at Settings
-Author: tanuj
+Author: tanuj <test@test.com>
 Name: Kim Kardashian: Hollywood Cheats
