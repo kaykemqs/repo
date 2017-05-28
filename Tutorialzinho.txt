@@ -1,0 +1,27 @@
+Mini tutorial de como colocar um tweak:
+
+Primeiro mova o arquivo para pasta debs
+Extraia o arquivo deb e guarde o nome original.
+Renomeie para um nome mais fácil.
+Entre no arquivo extraido e extraia o data.tar.
+Exclua o data.tar e deixe a pasta extraída.
+Adicione o template de Packages no arquivo Packages.
+Crie um novo Packages com a extensão .bzip2.
+Sincronize com o GitHub.
+Prontinho!
+----------------------------------------------------------------------------------
+Template do Packages
+
+Package: (Nome original do Tweak)
+Version: (Versão do Tweak)
+Architecture: iphoneos-arm
+Maintainer: Kayke
+Filename: debs//(Nome do arquivo.deb)
+Size: (Tamanho do arquivo .deb em Bytes)
+MD5sum: (Ver no Computer Hash)
+SHA1: (Ver no Computer Hash)
+SHA256: (Ver no Computer Hash)
+Section: (Seção que se encontra na repo)
+Description: (Descrição para o Tweak)
+Author: Nome do Autor
+Name: (Nome do tweak quando aparece no Cydia)
